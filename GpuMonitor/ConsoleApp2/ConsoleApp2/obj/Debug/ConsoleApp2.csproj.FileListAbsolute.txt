@@ -1,0 +1,8 @@
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+W:\WIP\CSharp\App1\ConsoleApp2\ConsoleApp2\bin\Debug\OpenHardwareMonitorLib.dll
