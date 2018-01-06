@@ -1,0 +1,2 @@
+# CCSuite
+A cryptocurrency suite
